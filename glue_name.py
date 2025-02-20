@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Bailey Orlick
+# DATE: 2/15/2025
+# BRIEF DESCRIPTION:  This will output the user's first and last name with a greeting.
 
 
 
@@ -16,10 +16,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
-    
-    
-    
-    
+
+
+first = input('Enter first name: ')
+last = input('Enter last name: ')
+
+print(f'Hi, {first} {last}')
     
     
     
@@ -77,6 +79,7 @@ Hi, Lisa Simpson, esquire
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
 
+   In this lab, I learned that it takes practice to fully understand Python. I used a lot of trial and error understand how to output the reqiured equation from the lab.
 
 
 
